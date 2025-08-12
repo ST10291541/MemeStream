@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491018903973",
+    "project_id": "memestreamapp-468807",
+    "storage_bucket": "memestreamapp-468807.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491018903973:android:d31d84236d08890354c84c",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.memestreamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9AtBlyEmIo7ivJbw3wMnWa15RMTzUwXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
