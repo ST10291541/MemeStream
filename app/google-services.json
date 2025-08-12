@@ -12,7 +12,20 @@
           "package_name": "vcmsa.projects.memestreamapp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "491018903973-s3dln2g88fv9utjtsq7bladv0odsi8us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vcmsa.projects.memestreamapp",
+            "certificate_hash": "d3e644aaaa032f4fd9d093e63760d7b7e00c3352"
+          }
+        },
+        {
+          "client_id": "491018903973-0hs13ivot80th7oo71ap0orrchfql7cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyC9AtBlyEmIo7ivJbw3wMnWa15RMTzUwXE"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491018903973-0hs13ivot80th7oo71ap0orrchfql7cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
