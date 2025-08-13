@@ -97,4 +97,7 @@ dependencies {
     // Google Sign-In
     implementation("com.google.android.gms:play-services-auth:20.7.0")
 
+    implementation("androidx.navigation:navigation-fragment-ktx:2.7.6")
+    implementation("androidx.navigation:navigation-ui-ktx:2.7.6")
+
 }

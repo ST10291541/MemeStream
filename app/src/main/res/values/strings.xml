@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MemeStreamApp</string>
     <string name="default_web_client_id">AIzaSyC9AtBlyEmIo7ivJbw3wMnWa15RMTzUwXE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
